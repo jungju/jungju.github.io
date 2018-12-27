@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JJGo</title>
-    <link>https://jungju.github.io/blog/</link>
+    <link>https://jungju.github.io/</link>
     <description>Recent content on JJGo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <managingEditor>jeongzu@gmail.com (Jungju)</managingEditor>
     <webMaster>jeongzu@gmail.com (Jungju)</webMaster>
     
-	<atom:link href="https://jungju.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jungju.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

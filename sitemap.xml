@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jungju.github.io/blog/</loc>
+    <loc>https://jungju.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://jungju.github.io/blog/categories/</loc>
+    <loc>https://jungju.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jungju.github.io/blog/tags/</loc>
+    <loc>https://jungju.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
